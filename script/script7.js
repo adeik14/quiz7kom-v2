@@ -6,9 +6,9 @@ const quizData = [
   },
   
   {
-    question: 'Analisis kuantitatif berkas rekam medis meliputi komponen berikut ini , kecuali?',
-    options: ['Review identifikasi', 'Review ketepatan', 'Review pencatatan', 'Review pelaporan'],
-    answer: 'Review ketepatan',
+    question: 'Peraturan pemerintah yang tentang rekam medis adalah sebagai berikut:',
+    options: ['Permenkes NO 269 th 2008', 'Permenkes NO 24 th 2022', 'Kepmenkes NO 377 th 2007', 'Kepmenkes NO 312 th 2020'],
+    answer: 'Permenkes NO 24 th 2022',
   },
 
   {
