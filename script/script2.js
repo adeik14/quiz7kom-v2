@@ -1,8 +1,8 @@
 const quizData = [
   {
-    question: 'Bagaimana sikap kita ketika menghadapi komplain dari pasien?',
-    options: ['Menganggap komplain adalah hal yang wajar', 'Melanjutkan bekerja seperti biasa', 'Melapor kepada atasan', 'Menerima komplain pasien dengan baik dan menjadikannya sebagai saran introspeksi'],
-    answer: 'Menerima komplain pasien dengan baik dan menjadikannya sebagai saran introspeksi',
+    question: 'Berikut adalah peraturan pemerintah yg mengatur tentang kompetensi perekam medis:',
+    options: ['Kepmenkes No 312 thn 2020 tentang Standar Profesi Perekam Medis', 'Kepmenkes No 321 thn 2020 tentang Standar Profesi Perekam Medis', 'Kepmenkes No 312 thn 2022 tentang Standar Profesi Perekam Medis', 'Kepmenkes No 321 thn 2022 tentang Standar Profesi Perekam Medis'],
+    answer: 'Kepmenkes No 312 thn 2020 tentang Standar Profesi Perekam Medis',
   },
   
   
